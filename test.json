@@ -1,0 +1,10 @@
+{
+  "download": "https://github.com/NOOBISN/Vpsophod/releases/download/Vpshod/panda.zip",
+  "games": {
+    "com.pubg.imobile":   { "automode": false,  "floating": true  },
+    "com.tencent.ig":     { "automode": false,  "floating": true  },
+    "com.pubg.krmobile":  { "automode": false,  "floating": true  },
+    "com.vng.pubgmobile":  { "automode": false,  "floating": true  },
+    "com.rekoo.pubgm":    { "automode": false,  "floating": true  }
+  }
+}
